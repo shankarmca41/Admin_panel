@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mui/x-data-grid": "^8.28.6",
+    "react-circular-progressbar": "^2.2.0",
+    "recharts": "^3.8.1",
+    "sass": "^1.99.0"
+  }
+}
